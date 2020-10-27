@@ -7,8 +7,8 @@ function Copyright() {
         <>
             <Typography variant="body2" color="textSecondary" align="center">
                 {'Copyright © '}
-                <Link color="inherit" href="https://ibtech.inf.br/">
-                    IBTech IT Solutions
+                <Link color="inherit" href="http://github.com/hu3diger/reactjs-gs">
+                    ReactGS - Developed by Hu3diger - OpenSource Project
                 </Link>{' '}
                 {new Date().getFullYear()}
                 {'.'}
